@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/3c8adc51-a640-451b-ba83-4854ebc7bd08)## 基于Django的校友信息管理系统(Alumni_management_system)
+## 基于Django的校友信息管理系统(Alumni_management_system)
 ### 技术栈:Django、Vue、mysql
 ### 管理员账号admin&123456、学校联络人test01&123456、非毕业生test02&123456、毕业生test03&123456
 ### 系统截图
+![image](https://github.com/user-attachments/assets/3c8adc51-a640-451b-ba83-4854ebc7bd08)
 ![image](https://github.com/user-attachments/assets/a46be101-9e25-40d7-8142-524343224b50)
 ![image](https://github.com/user-attachments/assets/a6a27bb5-af20-4680-a232-090146ece1c8)
 ![image](https://github.com/user-attachments/assets/01a99c8b-a432-4a27-a433-20983e967a7f)
