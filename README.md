@@ -15,6 +15,6 @@
 ![image](https://github.com/user-attachments/assets/b7e143f9-fd96-4336-95ec-fc4f3b9f9577)
 ![image](https://github.com/user-attachments/assets/8f4bdaee-fa14-48ad-90c8-ad2a1024d969)
 ![image](https://github.com/user-attachments/assets/0bd6736c-bbac-40fc-8e21-05b63cd608fe)
-
-
-
+### 开源协议
+- 允许免费用于学习、毕设等，但请保留源码作者信息。
+- 对未经过授权和不遵循 Apache 2.0 协议二次开源或者商业化我们将追究到底。
